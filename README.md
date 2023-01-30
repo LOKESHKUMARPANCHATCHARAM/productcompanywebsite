@@ -598,13 +598,17 @@ contact.html
 ## OUTPUT:
 
 ### Home Page:
-![output](./img/Home page.png)
+![Home page](https://user-images.githubusercontent.com/119644432/215390330-4ec1787b-4aa7-478a-8fd9-6dfa0cc3e433.png)
+
 ###  People page:
-![output](./img/People page.png)
+![People page](https://user-images.githubusercontent.com/119644432/215390335-56cbb995-9c25-4a3c-9882-eda66c717d5e.png)
+
 ### product page:
-![output](./img/Product page.png)
+![Product page](https://user-images.githubusercontent.com/119644432/215390339-917ab125-2e7a-4691-b001-54c939da7466.png)
+
 ### contact page:
-![output](./img/Contact page.png)
+![Contact page](https://user-images.githubusercontent.com/119644432/215390324-b178b811-d432-44af-9971-b766985e3023.png)
+
 
 ## Result:
 
